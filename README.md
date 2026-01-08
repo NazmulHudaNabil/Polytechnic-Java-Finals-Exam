@@ -1,4 +1,4 @@
-# 📚 Polytechnic Java Semester Final Prep
+# 📚 Polytechnic Java Semester Final Preparations
 
 ![Java](https://img.shields.io/badge/Language-Java-orange) ![Purpose](https://img.shields.io/badge/Focus-Exam%20Prep-blue) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -45,3 +45,22 @@ Fundamental syntax practice.
 1. **Clone the Repo:**
    ```bash
    git clone [https://github.com/NazmulHudaNabil/Polytechnic-Java-Finals-Exam.git](https://github.com/NazmulHudaNabil/Polytechnic-Java-Finals-Exam.git)
+
+
+   [Title of Project]
+...
+[Description]
+...
+[How to Run]
+...
+[...Previous sections...]
+
+
+## 🤝 Contribution
+If you are a student and want to add more exam solutions or fix a bug, feel free to fork this repository and submit a Pull Request. Let's build a great resource for everyone!
+
+## 👨‍💻 Author
+**Nazmul Huda Nabil**
+*Machine Learning Learner |
+
+Building resources to help the student community in Bangladesh.
