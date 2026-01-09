@@ -44,7 +44,7 @@ Fundamental syntax practice.
 
 1. **Clone the Repo:**
    ```bash
-   gh repo clone NazmulHudaNabil/Polytechnic-Java-Finals-Exam
+   git clone https://github.com/NazmulHudaNabil/Polytechnic-Java-Finals-Exam.git
 
 ...
 [Description]
